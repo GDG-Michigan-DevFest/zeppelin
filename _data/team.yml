@@ -2,28 +2,28 @@
   id: 0
   name: "Scott"
   surname: "Weber"
-  title: "Organizer"
+  title: "Software Developer"
   thumbnailUrl: ScottWeber.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+ScottWeberD"}
+    - {name: "twitter", link: "https://twitter.com/ScottDWeber"}
+    - {name: "github", link: "https://github.com/scottdweber"}
+    - {name: "site", link: "http://scottweber.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Don"
+  surname: "Ward"
+  title: "Team Lead"
+  thumbnailUrl: DonWard.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+DonWard"}
+    - {name: "github", link: "https://github.com/donwardpeng"}
 - 
   id: 2
   name: "Ostap"
