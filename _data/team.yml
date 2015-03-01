@@ -26,35 +26,33 @@
     - {name: "github", link: "https://github.com/donwardpeng"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Dave"
+  surname: "Koziol"
+  title: "Organizer"
+  thumbnailUrl: DaveKoziol.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://google.com/+DaveKoziol"}
+    - {name: "twitter", link: "https://twitter.com/davekoziol"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "David"
+  surname: "Wang"
+  title: "Organizer"
+  thumbnailUrl: JingranWang.JPG
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Jim"
+  surname: "Vitek"
+  title: "Organizer"
+  thumbnailUrl: JimVitek.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+JimVitek"}
+    - {name: "twitter", link: "https://twitter.com/vitek"}
+
