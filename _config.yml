@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Michigan GDG DevFest 2015"
 eventDate: "May 9, 2015"
-#typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutTextValues: '"Quicken", "Loans", "Qube", "Building", "Detroit"'
 #typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/forms/cFQ5uvCf6Z", text: "Become a speaker"}
@@ -110,8 +110,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Quicken Loans Qube Building"
+venueFeatures: ["2 Presentations Rooms", "Dolby Digital Surround", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
