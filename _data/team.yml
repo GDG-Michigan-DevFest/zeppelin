@@ -42,7 +42,7 @@
   surname: "Wang"
   title: "Organizer"
   thumbnailUrl: JingranWang.JPG
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
 - 
@@ -51,7 +51,7 @@
   surname: "Vitek"
   title: "Organizer"
   thumbnailUrl: JimVitek.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://google.com/+JimVitek"}
     - {name: "twitter", link: "https://twitter.com/vitek"}
