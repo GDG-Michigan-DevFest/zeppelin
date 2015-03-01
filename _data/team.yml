@@ -37,6 +37,15 @@
     - {name: "google-plus", link: "https://google.com/+DaveKoziol"}
     - {name: "twitter", link: "https://twitter.com/davekoziol"}
 - 
+  id: 3
+  name: "Nathan"
+  surname: "Hughes"
+  title: "Organizer"
+  thumbnailUrl: NateHughes.png
+  team: true
+  social: 
+    - {name: "google-plus", link: "google.com/+NathanHughesCthulhu"}
+- 
   id: 4
   name: "David"
   surname: "Wang"
@@ -46,7 +55,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
 - 
-  id: 7
+  id: 5
   name: "Jim"
   surname: "Vitek"
   title: "Organizer"
