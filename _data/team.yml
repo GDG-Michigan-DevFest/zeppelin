@@ -58,10 +58,12 @@
   id: 5
   name: "Jim"
   surname: "Vitek"
-  title: "Organizer"
+  title: "Android Developer & co-organizer of GDG-A3"
   thumbnailUrl: JimVitek.jpg
   team: true
   social: 
     - {name: "google-plus", link: "https://google.com/+JimVitek"}
     - {name: "twitter", link: "https://twitter.com/vitek"}
+    - {name: "github", link: "https://github.com/jimvitek"}
+    
 
