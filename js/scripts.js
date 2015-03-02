@@ -383,7 +383,7 @@
                 mapOptions.center = mobileCenterMap;
             }
             if (googleMaps == 'logistics') {
-                mapOptions.zoom = 5;
+                mapOptions.zoom = 8;
                 mapOptions.zoomControl = true;
             }
 
