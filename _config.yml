@@ -171,7 +171,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:MichiganGDGDevFest@gmail.com", text: "MichiganGDGDevFest@gmail.com"}
+   - {link: "mailto:MichiganDevFest@gmail.com", text: "MichiganDevFest@gmail.com"}
  -
   title: "FAQ"
   links:
