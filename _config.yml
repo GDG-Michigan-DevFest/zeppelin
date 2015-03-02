@@ -76,7 +76,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "of pure Google technologies"}
- - {count: "1", specialCharacter: "", info: "great day", deatil: "of learning"}
+ - {count: "1", specialCharacter: "", info: "great day", detail: "of learning"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -139,7 +139,6 @@ ticketsOffers:
   priceCurrency: ""
   buyButtonLink: "#"
   buyButtonText: "Buy Now"
-  featured: true
   ticketContentList: []
   validFrom: "2015-04-01T10:00"
   validThrough: "2015-05-08T23:59"
