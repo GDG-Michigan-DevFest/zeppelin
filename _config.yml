@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG Michigan DevFest 2015"
-email: "todo@todo.com"
+email: "michigandevfest@gmail.com"
 description: "Google Developers' DevFest in Southeast Michigan"
 baseurl: "/zeppelin"
-url: "http://gdg-michigan-devfest.github.io"
+url: "http://michigandevfest.com"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
