@@ -156,15 +156,15 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/112215001458553713484/posts", icon: "google-plus"}
- - {link: "https://plus.google.com/116487477821397039229/posts", icon: "google-plus"}
 # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://plus.google.com/116487477821397039229/posts", text: "GDG Detroit"}
+   - {link: "https://plus.google.com/112215001458553713484/posts", text: "GDG Ann Arbor Android"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
