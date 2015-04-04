@@ -10,12 +10,12 @@
   service: true
 -
   id: 001
-  title: "TBD"
-  description: "TBD"
+  title: "Getting Started with SQLite"
+  description: "SQLlite, which is the standard database for Android, is an excellent way to maintain persistent data in an app. Many apps would benefit from making use of the database. At the conclusion of this presentation, you should be able to perform basic database design, create a database and use (query, insert, update, and delete) the database in an app. It will also cover basic cursors and linking cursors to list views."
   subtype: presentation
-  speakers: []
+  speakers: [3]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
 -
   id: 002
   title: "Building Cloud-powered wearable Apps"

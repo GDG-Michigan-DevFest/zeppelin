@@ -1,14 +1,14 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  name: "Stan"
+  surname: "Green"
+  company: "The Ultra Signal"
+  title: "Chief Innovator"
+  bio: "Stan has been working with relational databases for longer than he cares to admit. He also started programming in Java when it was largely used for applets. He as worked in many database tools including, but not limited to, Oracle, Sybase, MS SQL Server. He once sat for and passed a DBA certification exam. Now he has made the switch to development in Android."
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/stangreen"}
 - 
   id: 4
   name: "Dmytro"
