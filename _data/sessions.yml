@@ -18,18 +18,32 @@
   complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "CodeLab - TBD"
+  description: "This will be a hands-on CodeLab."
   subtype: presentation
-  speakers: [4, 5]
+  speakers: []
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Introduction to SVG"
+  description: "With the plethora of of devices used to access the web. And all the different screen sizes, different resolutions. It has become very hard to conserve bandwidth and get the proper resolution for graphics in our interfaces. SVG is part of the answer to that puzzle. Because of its nature of being resolution/device independent. SVG looks superb on any device that will display it, and it enjoys broad support in most modern environments.
+SVG can be modified with CSS. Has the ability to be animated, and scripted. And because it is in the DOM it is accessible and SEO friendly.
+
+Outline - 
+
+Why use SVG
+What is SVG
+Browser Support
+Simple SVG objects/elements (code examples)
+How to construct more complex SVGs (code examples)
+How to clean up those files for use (code examples)
+How to get them on the page (code examples)
+How to use CSS with SVG (code examples)
+Ways to animate SVG (code examples)
+Javascript control (code examples)
+Accessibility/SEO (code examples)
+list of resources"
   subtype: presentation
   speakers: [4]
   language: en
