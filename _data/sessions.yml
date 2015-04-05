@@ -73,7 +73,7 @@
   language: en
   complexity: "Intermediate"
 -
-  id: 007
+  id: 008
   title: "Tales of Game Development with LibGDX - A Postmortem"
   description: "Game Development is scary; there are so many languages, libraries, and IDEs to choose from! This talk will advocate the pros and woes of my current favorite weapon of choice: LibGDX. I will go over my experience creating a simple side scrolling beat em up starting from design all the way to a fully playable first level. LibGDX is a cross platform game development library, but for the purposes of this talk we will focus exclusively on making a game for Android with touch controls."
   subtype: presentation
