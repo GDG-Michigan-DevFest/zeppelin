@@ -96,4 +96,20 @@
   speakers: [11]
   language: en
   complexity: "Intermediate"
+-
+  id: 011
+  title: "Adaptive Android Design Practice"
+  description: "In this talk, we will talk about how to create deliverable and adaptive design for Android apps from scratch. We will cover pretty much everything practical from looking for design resources to generating correct Specs and image sizes based on device sizes and densities . From this talk, you will also gain insights into the differences between iOS and Android in terms of design and implementations."
+  subtype: presentation
+  speakers: [12]
+  language: en
+  complexity: "Beginner"
+-
+  id: 012
+  title: "Building Bluetooth Low-Energy Sensor Devices with the Microchip RN4020"
+  description: "BLE modules such as the RN4020 shorten the development cycle to make custom sensor-, fitness-, and medical-related devices, with minimal capital costs. Joe will take you on a tour of using the module in an actual application: connecting it to an analog pressure sensor, configuring Bluetooth, using the module's scripting language, and how an Android app exchanges and displays BT data."
+  subtype: presentation
+  speakers: [13]
+  language: en
+  complexity: "Intermediate"
 
