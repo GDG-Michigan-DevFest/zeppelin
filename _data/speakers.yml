@@ -88,3 +88,14 @@
   bio: "Nariman Ammar is a PhD candidate in Computer science at Wayne State University conducting research in Service computing, with focus on privacy management in Web services-based interactions. Nariman obtained her MSc. degree in Software engineering form Wayne State University. Nariman has several publications on using static analysis to extract runtime object interactions from object oriented code. Her recent publications include a privacy management framework that incorporates dynamic context handling in policy evaluation and decision making."
   thumbnailUrl: NarimanAmmar.jpg
   rockstar: true
+- 
+  id: 11
+  name: "David"
+  surname: "McKinnon"
+  company: "Independent Android Developer"
+  bio: "David McKinnon is an independent software developer who has worked in Metro-Detroit since 1990. He has worked on a variety of Android projects since 2011 including a large pizza ordering app, a signing agents app for a title insurance provider and various poc and research projects. He is an organizer of the Detroit Java User Group and the founder of the DevDay conferences organized for software developers in the Detroit area."
+  thumbnailUrl: DavidMcKinnon.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/detroitjava"}
+    - {name: "github", link: "https://github.com/davidmckinnon"}

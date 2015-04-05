@@ -88,3 +88,11 @@
   speakers: [10]
   language: en
   complexity: "Expert"
+-
+  id: 010
+  title: "The Lollipop Guild Gets A Job"
+  description: "This code intensive talk will present an introduction to the new JobScheduler API introduced in Android 5.0 Lollipop API 21. The Job Scheduler is a powerful new tool for scheduling asynchronous tasks. <br><br>Topics addressed will include: <br>* Pre API 21 features like Sync Adapter and Alarm Manager<br>* An overview of the new Job Scheduler Architecture<br>* Use cases and example solutions<br>* Tasks that require Wifi Connectivity<br>* Tasks that require a system idle state<br>* Tasks that should be done once the device is connected to a power supply<br><br>This presentation is going to walk Android and iOS developers through a Web service based, GAE enabled private mobile application. By adding a privacy layer on the top of an existing mobile application. I will walk you through the basics of building and publishing a privacy-aware Web service-based application to Google cloud platform. I go through the basics of how a standard privacy management framework (XACML) works and help developers write their first privacy-aware mobile or Web application."
+  subtype: presentation
+  speakers: [11]
+  language: en
+  complexity: "Intermediate"
