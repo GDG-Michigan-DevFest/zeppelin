@@ -45,18 +45,16 @@
     - {name: "twitter", link: "https://twitter.com/godfreynolan"}
 - 
   id: 7
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Michael"
+  surname: "Pardo"
+  company: "Notion"
+  title: "Senior Android Engineer at Notion"
+  bio: "Michael Pardo is a Senior Android Engineer at Notion. He has been writing and publishing featured Android apps since the App Store launched in 2008. He also authors and contributes to open source projects like ActiveAndroid and Ollie."
+  thumbnailUrl: MichaelPardo.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "http://plus.google.com/+MichaelPardo"}
+    - {name: "twitter", link: "http://twitter.com/pardom"}
 - 
   id: 8
   name: "Valentyn"
