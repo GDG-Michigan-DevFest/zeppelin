@@ -68,3 +68,15 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "http://www.linkedin.com/in/jayashreeravi"}
+- 
+  id: 9
+  name: "Jason"
+  surname: "Petterson"
+  company: "Broken Shotgun L.L.C."
+  bio: "Jason is the Founder of Broken Shotgun, a Metro Detroit game development company, and also an Android Developer at Detroit Labs. Making things is in his blood, so when Jason is not writing code, he is making laughs performing improv or experimenting with flavors while home brewing beer."
+  thumbnailUrl: JasonPetterson.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+Brokenshotgun"}
+    - {name: "twitter", link: "https://twitter.com/ChunkyBrewster"}
+    - {name: "github", link: "https://github.com/ickybodclay"}
