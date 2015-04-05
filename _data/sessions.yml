@@ -22,45 +22,42 @@
   description: "This will be a hands-on CodeLab."
   subtype: presentation
   speakers: []
-  language: en
-  complexity: "Intermediate" 
 -
   id: 003
   title: "Introduction to SVG"
-  description: "With the plethora of of devices used to access the web. And all the different screen sizes, different resolutions. It has become very hard to conserve bandwidth and get the proper resolution for graphics in our interfaces. SVG is part of the answer to that puzzle. Because of its nature of being resolution/device independent. SVG looks superb on any device that will display it, and it enjoys broad support in most modern environments.
-SVG can be modified with CSS. Has the ability to be animated, and scripted. And because it is in the DOM it is accessible and SEO friendly.
-
-Outline - 
-
-Why use SVG
-What is SVG
-Browser Support
-Simple SVG objects/elements (code examples)
-How to construct more complex SVGs (code examples)
-How to clean up those files for use (code examples)
-How to get them on the page (code examples)
-How to use CSS with SVG (code examples)
-Ways to animate SVG (code examples)
-Javascript control (code examples)
-Accessibility/SEO (code examples)
-list of resources"
+  description: "With the plethora of of devices used to access the web. And all the different screen sizes and different resolutions. It has become very hard to conserve bandwidth and get the proper resolution for graphics in our interfaces. SVG is part of the answer to that puzzle. Because of its nature of being resolution/device independent. SVG looks superb on any device that will display it and it enjoys broad support in most modern environments. SVG can be modified with CSS. Has the ability to be animated, and scripted. And because it is in the DOM it is accessible and SEO friendly."
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Beginner" 
 -
   id: 004
+  title: "Observing RxJava on Android"
+  description: "Everyone wants smooth, responsive, and robust apps. Yet asynchronous programming on Android leaves a lot to be desired. RxJava brings the Functional Reactive Programming paradigm to Java, making concurrency easy and enjoyable!<br/><br/>This talk will discuss the fundamentals and benefits of RxJava on Android, and help ease the learning curve of the FRP paradigm. See how to take advantage of Observables and Subscribers to keep your apps fast and reliable."
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Intermediate" 
+-
+  id: 005
+  title: "Developing for Android Auto"
+  description: "Google released a couple of APIs for Android Auto. In this session we look at what you can and cannot do with the messaging and audio APIs.  We'll take a deep dive into some reference apps and also look at how to convert an existing app to the Android Auto framework."
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "Intermediate" 
+-
+  id: 006
   title: "Polymer: Interacting with Google Services using nothing but HTML"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
-  speakers: [6]
+  speakers: [7]
   language: uk
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 005
+  id: 007
   title: "Test: Interacting with Google Services using nothing but HTML"
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote

@@ -22,21 +22,29 @@
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101192111&trk=eml_inv_status_profile_non_email"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Michael"
+  surname: "Torres"
+  company: "Notion AI, Inc."
+  title: "Android Developer"
+  bio: 'Michael Torres is an Android app developer with Notion AI, Inc.'
+  thumbnailUrl: MichaelTorres.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/+MichaelTorresCodeChameleon"}
+    - {name: "github", link: "https://github.com/torresmi"}
 - 
   id: 6
+  name: "Godfrey"
+  surname: "Nolan"
+  company: "RIIS LLC"
+  title: "Founder and President"
+  bio: "Godfrey Nolan is Founder and President of RIIS, an IT services firm specializing in mobile development in the Detroit Metro area.  He is also author of Bulletproof Android: Practical Advice for Building Secure Apps (Addison-Wesley Professional, 2014), Android Best Practices (Apress, 2013), Decompiling Android (Apress, 2012) and Decompiling Java (Apress, 2004) and has written numerous articles for magazines and newspapers in the United States, the United Kingdom, and Ireland."
+  thumbnailUrl: GodfreyNolan.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/godfreynolan"}
+- 
+  id: 7
   name: "Roman"
   surname: "Mazur"
   company: "Stanfy, GDG Kyiv"
