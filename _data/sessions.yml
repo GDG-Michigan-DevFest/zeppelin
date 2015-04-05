@@ -59,18 +59,16 @@
 -
   id: 006
   title: "Kotlin: New Hope in a Java 6 Wasteland"
-  description: "Java 8 was released last year adding lambdas, streams, and many other language improvements. Java 9 is already in the works, but with over half of Android devices stuck using Java 6 will we ever get to use a modern language? \nIntroducing Kotlin: a statically typed JVM language backed by JetBrains. With features like lambdas, class extensions, and null-safety, it aims to be concise, expressive, and highly interoperable. In this presentation we will learn how powerful Kotlin can be when added to your Android tool belt."
+  description: "Java 8 was released last year adding lambdas, streams, and many other language improvements. Java 9 is already in the works, but with over half of Android devices stuck using Java 6 will we ever get to use a modern language? <br>Introducing Kotlin: a statically typed JVM language backed by JetBrains. With features like lambdas, class extensions, and null-safety, it aims to be concise, expressive, and highly interoperable. In this presentation we will learn how powerful Kotlin can be when added to your Android tool belt."
   subtype: presentation
   speakers: [7]
   language: en
   complexity: "Beginner"
 -
   id: 007
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  title: "Java Datastore SDK in Google App Engine"
+  description: "While Google App Engine (GAE) does not support traditional relational databases like MySQL, Oracle etc, it does support NoSQL Datastore providing all the features for a typical Big Data system. We will explore the many different API's (JDO, JPA and low-level Entity) that are available to store data."
+  subtype: presentation
+  speakers: [8]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Intermediate"

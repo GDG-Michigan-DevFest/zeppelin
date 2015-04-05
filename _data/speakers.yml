@@ -47,7 +47,7 @@
   id: 7
   name: "Michael"
   surname: "Pardo"
-  company: "Notion"
+  company: "Notion AI, Inc."
   title: "Senior Android Engineer at Notion"
   bio: "Michael Pardo is a Senior Android Engineer at Notion. He has been writing and publishing featured Android apps since the App Store launched in 2008. He also authors and contributes to open source projects like ActiveAndroid and Ollie."
   thumbnailUrl: MichaelPardo.jpg
@@ -55,17 +55,16 @@
   social: 
     - {name: "google-plus", link: "http://plus.google.com/+MichaelPardo"}
     - {name: "twitter", link: "http://twitter.com/pardom"}
+    - {name: "github", link: "http://github.com/pardom"}
+    - {name: "site", link: "http://michaelpardo.com/"}
+
 - 
   id: 8
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Jayashree"
+  surname: "Ravi"
+  company: "Mobi Boot Camp Corp."
+  bio: "Jayashree Ravi, has been a hands-on techie for the last two decades. She has a Master of Science degree from Wayne State University along with several industry certifications which includes SCJP (Sun Certified Java Programmer) and SCEA (Sun Certified Enterprise Architect). She not only develops products and platforms with a team of Engineers fully trained by her, she also teaches Mobile Application Development, Cloud based systems design and implementation, Big Data system design and implementation for students and professionals at her own training company Mobi Boot Camp Corp, Wayne State University, Grand Circus and several other training companies all over US."
+  thumbnailUrl: JayashreeRavi.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/jayashreeravi"}
