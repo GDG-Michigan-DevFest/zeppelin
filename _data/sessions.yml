@@ -6,8 +6,13 @@
 -
   id: 503
   title: "Lunch Break"
-  place: "Dining room"
+  place: "Kitchen"
   service: true
+-
+  id: 504
+  title: "Wrap Up"
+  place: "Super Breakout Room"
+  service: true  
 -
   id: 001
   title: "Getting Started with SQLite"
