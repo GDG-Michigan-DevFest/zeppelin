@@ -80,3 +80,11 @@
     - {name: "google-plus", link: "https://plus.google.com/+Brokenshotgun"}
     - {name: "twitter", link: "https://twitter.com/ChunkyBrewster"}
     - {name: "github", link: "https://github.com/ickybodclay"}
+- 
+  id: 10
+  name: "Nariman"
+  surname: "Ammar"
+  company: "Wayne State University"
+  bio: "Nariman Ammar is a PhD candidate in Computer science at Wayne State University conducting research in Service computing, with focus on privacy management in Web services-based interactions. Nariman obtained her MSc. degree in Software engineering form Wayne State University. Nariman has several publications on using static analysis to extract runtime object interactions from object oriented code. Her recent publications include a privacy management framework that incorporates dynamic context handling in policy evaluation and decision making."
+  thumbnailUrl: NarimanAmmar.jpg
+  rockstar: true
