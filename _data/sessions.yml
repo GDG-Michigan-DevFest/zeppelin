@@ -26,13 +26,12 @@
   complexity: "Intermediate" 
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Developing for Android Auto"
+  description: "Google released a couple of APIs for Android Auto. In this session we look at what you can and cannot do with the messaging and audio APIs.  We'll take a deep dive into some reference apps and also look at how to convert an existing app to the Android Auto framework."
   subtype: presentation
   speakers: [5]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
