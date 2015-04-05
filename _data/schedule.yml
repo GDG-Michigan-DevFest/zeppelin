@@ -7,8 +7,8 @@
     - {title: "Google Web", color: "#e91e63"}
   timeslots:
     - {
-      startTime: "9:30",
-      endTime: "10:20",
+      startTime: "9:00",
+      endTime: "9:20",
       sessionIds: [307]
     }
     - {

@@ -18,14 +18,12 @@
   complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Observing RxJava on Android"
+  description: "Everyone wants smooth, responsive, and robust apps. Yet asynchronous programming on Android leaves a lot to be desired. RxJava brings the Functional Reactive Programming paradigm to Java, making concurrency easy and enjoyable!<br/><br/>This talk will discuss the fundamentals and benefits of RxJava on Android, and help ease the learning curve of the FRP paradigm. See how to take advantage of Observables and Subscribers to keep your apps fast and reliable."
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [4]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
   title: "Android L Animation"
