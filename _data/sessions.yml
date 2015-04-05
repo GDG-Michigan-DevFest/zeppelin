@@ -35,7 +35,7 @@
 -
   id: 003
   title: "Introduction to SVG"
-  description: "With the plethora of of devices used to access the web. And all the different screen sizes and different resolutions. It has become very hard to conserve bandwidth and get the proper resolution for graphics in our interfaces. SVG is part of the answer to that puzzle. Because of its nature of being resolution/device independent. SVG looks superb on any device that will display it and it enjoys broad support in most modern environments. SVG can be modified with CSS. Has the ability to be animated, and scripted. And because it is in the DOM it is accessible and SEO friendly."
+  description: "With the plethora of of devices used to access the web. And all the different screen sizes, different resolutions. It has become very hard to conserve bandwidth and get the proper resolution for graphics in our interfaces. SVG is part of the answer to that puzzle. Because of its nature of being resolution/device independent. SVG looks superb on any device that will display it, and it enjoys broad support in most modern environments.SVG can be modified with CSS. Has the ability to be animated, and scripted. And because it is in the DOM it is accessible and SEO friendly.<br><br> This talk will cover:<br>Why use SVG<br>What is SVG<br>Browser Support<br>Simple SVG objects/elements (code examples)<br>How to construct more complex SVGs (code examples)<br>How to clean up those files for use (code examples)<br>How to get them on the page (code examples)<br>How to use CSS with SVG (code examples)<br>Ways to animate SVG (code examples)<br>Javascript control (code examples)<br>Accessibility/SEO (code examples)"
   subtype: presentation
   speakers: [4]
   language: en
@@ -91,8 +91,9 @@
 -
   id: 010
   title: "The Lollipop Guild Gets A Job"
-  description: "This code intensive talk will present an introduction to the new JobScheduler API introduced in Android 5.0 Lollipop API 21. The Job Scheduler is a powerful new tool for scheduling asynchronous tasks. <br><br>Topics addressed will include: <br>* Pre API 21 features like Sync Adapter and Alarm Manager<br>* An overview of the new Job Scheduler Architecture<br>* Use cases and example solutions<br>* Tasks that require Wifi Connectivity<br>* Tasks that require a system idle state<br>* Tasks that should be done once the device is connected to a power supply<br><br>This presentation is going to walk Android and iOS developers through a Web service based, GAE enabled private mobile application. By adding a privacy layer on the top of an existing mobile application. I will walk you through the basics of building and publishing a privacy-aware Web service-based application to Google cloud platform. I go through the basics of how a standard privacy management framework (XACML) works and help developers write their first privacy-aware mobile or Web application."
+  description: "This code intensive talk will present an introduction to the new JobScheduler API introduced in Android 5.0 Lollipop API 21. The Job Scheduler is a powerful new tool for scheduling asynchronous tasks. <br><br>Topics addressed will include: <br>* Pre API 21 features like Sync Adapter and Alarm Manager<br>* An overview of the new Job Scheduler Architecture<br>* Use cases and example solutions<br>* Tasks that require Wifi Connectivity<br>* Tasks that require a system idle state<br>* Tasks that should be done once the device is connected to a power supply"
   subtype: presentation
   speakers: [11]
   language: en
   complexity: "Intermediate"
+
