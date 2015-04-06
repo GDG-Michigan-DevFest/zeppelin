@@ -48,7 +48,7 @@
   name: "Michael"
   surname: "Pardo"
   company: "Notion AI, Inc."
-  title: "Senior Android Engineer at Notion"
+  title: "Senior Android Engineer"
   bio: "Michael Pardo is a Senior Android Engineer at Notion. He has been writing and publishing featured Android apps since the App Store launched in 2008. He also authors and contributes to open source projects like ActiveAndroid and Ollie."
   thumbnailUrl: MichaelPardo.jpg
   rockstar: true
@@ -73,6 +73,7 @@
   name: "Jason"
   surname: "Petterson"
   company: "Broken Shotgun L.L.C."
+  title: "Founder"
   bio: "Jason is the Founder of Broken Shotgun, a Metro Detroit game development company, and also an Android Developer at Detroit Labs. Making things is in his blood, so when Jason is not writing code, he is making laughs performing improv or experimenting with flavors while home brewing beer."
   thumbnailUrl: JasonPetterson.jpg
   rockstar: true
@@ -84,6 +85,7 @@
   id: 10
   name: "Nariman"
   surname: "Ammar"
+  title: "PhD Candidate"
   company: "Wayne State University"
   bio: "Nariman Ammar is a PhD candidate in Computer science at Wayne State University conducting research in Service computing, with focus on privacy management in Web services-based interactions. Nariman obtained her MSc. degree in Software engineering form Wayne State University. Nariman has several publications on using static analysis to extract runtime object interactions from object oriented code. Her recent publications include a privacy management framework that incorporates dynamic context handling in policy evaluation and decision making."
   thumbnailUrl: NarimanAmmar.jpg
@@ -119,8 +121,12 @@
   rockstar: true
   social: 
     - {name: "github", link: "https://github.com/jglandorf"}
-
-
-
-
-
+- 
+  id: 14
+  name: "David"
+  surname: "Wang"
+  bio: ""
+  thumbnailUrl: JingranWang.JPG
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
