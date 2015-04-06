@@ -102,6 +102,15 @@
     - {name: "twitter", link: "https://twitter.com/detroitjava"}
     - {name: "github", link: "https://github.com/davidmckinnon"}
 - 
+  id: 12
+  name: "Joe"
+  surname: "Glandorf"
+  bio: "Joe Glandorf, a contract software engineer in Ann Arbor, has worked in the infotainment, CNC, and resistance welding industries, and has developed software for QNX, Windows/RTX, and Android. He holds amateur radio license AC8ES."
+  thumbnailUrl: JoeGlandorf.jpg
+  rockstar: true
+  social: 
+    - {name: "github", link: "https://github.com/jglandorf"}
+- 
   id: 13
   name: "Ni"
   surname: "Yan"
@@ -112,15 +121,6 @@
   social: 
     - {name: "linkedin", link: "http://www.linkedin.com/pub/ni-yan/39/ab2/843/en"}
     - {name: "site", link: "http://anniedream.com/"}
-- 
-  id: 12
-  name: "Joe"
-  surname: "Glandorf"
-  bio: "Joe Glandorf, a contract software engineer in Ann Arbor, has worked in the infotainment, CNC, and resistance welding industries, and has developed software for QNX, Windows/RTX, and Android. He holds amateur radio license AC8ES."
-  thumbnailUrl: JoeGlandorf.jpg
-  rockstar: true
-  social: 
-    - {name: "github", link: "https://github.com/jglandorf"}
 - 
   id: 14
   name: "David"
