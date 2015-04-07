@@ -120,3 +120,11 @@
   speakers: [15]
   language: en
   complexity: "Beginner"
+-
+  id: 014
+  title: "Introduction to Groovy and Gradle"
+  description: "Do you actually understand your Android Gradle build files? If not, then this live coding demo will get you started. We'll work through the basics of Groovy (the language Gradle is built on), Gradle, and the Android Gradle plugin. By the end of this talk you'll understand your build files (and more importantly, how to modify them to suit your needs)."
+  subtype: presentation
+  speakers: [16]
+  language: en
+  complexity: "Intermediate"

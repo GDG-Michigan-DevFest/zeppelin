@@ -114,7 +114,7 @@
   id: 13
   name: "Ni"
   surname: "Yan"
-  company: "Mango Languages, UX/UI designer "
+  company: "Mango Languages, UX/UI designer"
   bio: "Ni has a background of Journalism and Communication in Beijing Normal University, and she got a master degree in Human Computer Interaction and Social Computing at University of Michigan School of Information. Ni is always driven by her artistic nature and passion of creativity. With experience working in several tech startups and projects, she loves entrepreneurial spirit, innovation, team-working, rapid iterations, prototyping, and front-end developing. She is especially passionate in designing and developing mobile and web apps for education, games for good, healthcare and motion-sensing technologies."
   thumbnailUrl: NiYan.jpg
   rockstar: true
@@ -139,3 +139,13 @@
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "GDG Chicago", url: "https://developers.google.com/groups/chapter/116342852249328662050/" }
+-
+  id: 16
+  name: "Dan"
+  surname: "Lew"
+  bio: "Dan Lew has been working on the railroad, all the live-long day. He is also an Android Google Developer Expert who has worked on Android versions of apps such as FlightTrack, Expedia, and Trello."
+  company: "Trello"
+  thumbnailUrl: DanLew.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
