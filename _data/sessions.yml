@@ -112,4 +112,11 @@
   speakers: [12]
   language: en
   complexity: "Intermediate"
-
+-
+  id: 013
+  title: "Intro to Google Tag Manager"
+  description: "Come Learn what Google Tag Manager is and how to use it on your website. Use Google Analytics on your website? Come learn a different way of implementing it and how to more efficiently track all the things on your website all while only adding one snippet of code to the page."
+  subtype: presentation
+  speakers: [15]
+  language: en
+  complexity: "Beginner"

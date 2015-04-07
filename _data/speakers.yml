@@ -130,3 +130,12 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
+-
+  id: 15
+  name: "Dan"
+  surname: "Baran"
+  bio: "Dan Baran is a web developer by day and a data nerd by night. He also runs the GDG in Chicago. He spends his time coding in HTML, JavaScript, PHP."
+  thumbnailUrl: DanBaran.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Chicago", url: "https://developers.google.com/groups/chapter/116342852249328662050/" }
