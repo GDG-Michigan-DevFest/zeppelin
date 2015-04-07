@@ -1,3 +1,34 @@
+-
+  id: 16
+  name: "Dan"
+  surname: "Lew"
+  bio: "Dan Lew has been working on the railroad, all the live-long day. He is also an Android Google Developer Expert who has worked on Android versions of apps such as FlightTrack, Expedia, and Trello."
+  company: "Trello"
+  thumbnailUrl: DanLew.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/danlew42"}
+    - {name: "site", link: "http://danlew.net/"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+-
+  id: 15
+  name: "Dan"
+  surname: "Baran"
+  bio: "Dan Baran is a web developer by day and a data nerd by night. He also runs the GDG in Chicago. He spends his time coding in HTML, JavaScript, PHP."
+  thumbnailUrl: DanBaran.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Chicago", url: "https://developers.google.com/groups/chapter/116342852249328662050/" }
+- 
+  id: 10
+  name: "Nariman"
+  surname: "Ammar"
+  title: "PhD Candidate"
+  company: "Wayne State University"
+  bio: "Nariman Ammar is a PhD candidate in Computer science at Wayne State University conducting research in Service computing, with focus on privacy management in Web services-based interactions. Nariman obtained her MSc. degree in Software engineering form Wayne State University. Nariman has several publications on using static analysis to extract runtime object interactions from object oriented code. Her recent publications include a privacy management framework that incorporates dynamic context handling in policy evaluation and decision making."
+  thumbnailUrl: NarimanAmmar.jpg
+  rockstar: true
 - 
   id: 3
   name: "Stan"
@@ -10,28 +41,25 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/stangreen"}
 - 
-  id: 4
-  name: "Peter"
-  surname: "Stema"
-  company: "Untied Health Care/Optum Technologies"
-  title: "Senior Software Developer"
-  bio: "Peter has been using computer graphics since the mid 1980s, starting with his trusty VIC 20. He started code for the web in the mid 1990s. He currently is a Senior Software Developer at Untied Health Care/Optum Technologies. Is passionate about making cool software and learning new things. A life long musician he favors playing vintage guitars and amps."
-  thumbnailUrl: 
+  id: 12
+  name: "Joe"
+  surname: "Glandorf"
+  bio: "Joe Glandorf, a contract software engineer in Ann Arbor, has worked in the infotainment, CNC, and resistance welding industries, and has developed software for QNX, Windows/RTX, and Android. He holds amateur radio license AC8ES."
+  thumbnailUrl: JoeGlandorf.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101192111&trk=eml_inv_status_profile_non_email"}
+    - {name: "github", link: "https://github.com/jglandorf"}
 - 
-  id: 5
-  name: "Michael"
-  surname: "Torres"
-  company: "Notion AI, Inc."
-  title: "Android Developer"
-  bio: 'Michael Torres is an Android app developer with Notion AI, Inc.'
-  thumbnailUrl: MichaelTorres.jpg
+  id: 11
+  name: "David"
+  surname: "McKinnon"
+  company: "Independent Android Developer"
+  bio: "David McKinnon is an independent software developer who has worked in Metro-Detroit since 1990. He has worked on a variety of Android projects since 2011 including a large pizza ordering app, a signing agents app for a title insurance provider and various poc and research projects. He is an organizer of the Detroit Java User Group and the founder of the DevDay conferences organized for software developers in the Detroit area."
+  thumbnailUrl: DavidMcKinnon.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MichaelTorresCodeChameleon"}
-    - {name: "github", link: "https://github.com/torresmi"}
+    - {name: "twitter", link: "https://twitter.com/detroitjava"}
+    - {name: "github", link: "https://github.com/davidmckinnon"}
 - 
   id: 6
   name: "Godfrey"
@@ -57,17 +85,6 @@
     - {name: "twitter", link: "http://twitter.com/pardom"}
     - {name: "github", link: "http://github.com/pardom"}
     - {name: "site", link: "http://michaelpardo.com/"}
-
-- 
-  id: 8
-  name: "Jayashree"
-  surname: "Ravi"
-  company: "Mobi Boot Camp Corp."
-  bio: "Jayashree Ravi, has been a hands-on techie for the last two decades. She has a Master of Science degree from Wayne State University along with several industry certifications which includes SCJP (Sun Certified Java Programmer) and SCEA (Sun Certified Enterprise Architect). She not only develops products and platforms with a team of Engineers fully trained by her, she also teaches Mobile Application Development, Cloud based systems design and implementation, Big Data system design and implementation for students and professionals at her own training company Mobi Boot Camp Corp, Wayne State University, Grand Circus and several other training companies all over US."
-  thumbnailUrl: JayashreeRavi.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "http://www.linkedin.com/in/jayashreeravi"}
 - 
   id: 9
   name: "Jason"
@@ -82,34 +99,47 @@
     - {name: "twitter", link: "https://twitter.com/ChunkyBrewster"}
     - {name: "github", link: "https://github.com/ickybodclay"}
 - 
-  id: 10
-  name: "Nariman"
-  surname: "Ammar"
-  title: "PhD Candidate"
-  company: "Wayne State University"
-  bio: "Nariman Ammar is a PhD candidate in Computer science at Wayne State University conducting research in Service computing, with focus on privacy management in Web services-based interactions. Nariman obtained her MSc. degree in Software engineering form Wayne State University. Nariman has several publications on using static analysis to extract runtime object interactions from object oriented code. Her recent publications include a privacy management framework that incorporates dynamic context handling in policy evaluation and decision making."
-  thumbnailUrl: NarimanAmmar.jpg
+  id: 8
+  name: "Jayashree"
+  surname: "Ravi"
+  company: "Mobi Boot Camp Corp."
+  bio: "Jayashree Ravi, has been a hands-on techie for the last two decades. She has a Master of Science degree from Wayne State University along with several industry certifications which includes SCJP (Sun Certified Java Programmer) and SCEA (Sun Certified Enterprise Architect). She not only develops products and platforms with a team of Engineers fully trained by her, she also teaches Mobile Application Development, Cloud based systems design and implementation, Big Data system design and implementation for students and professionals at her own training company Mobi Boot Camp Corp, Wayne State University, Grand Circus and several other training companies all over US."
+  thumbnailUrl: JayashreeRavi.jpg
   rockstar: true
+  social: 
+    - {name: "linkedin", link: "http://www.linkedin.com/in/jayashreeravi"}
 - 
-  id: 11
+  id: 4
+  name: "Peter"
+  surname: "Stema"
+  company: "Untied Health Care/Optum Technologies"
+  title: "Senior Software Developer"
+  bio: "Peter has been using computer graphics since the mid 1980s, starting with his trusty VIC 20. He started code for the web in the mid 1990s. He currently is a Senior Software Developer at Untied Health Care/Optum Technologies. Is passionate about making cool software and learning new things. A life long musician he favors playing vintage guitars and amps."
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101192111&trk=eml_inv_status_profile_non_email"}
+- 
+  id: 5
+  name: "Michael"
+  surname: "Torres"
+  company: "Notion AI, Inc."
+  title: "Android Developer"
+  bio: 'Michael Torres is an Android app developer with Notion AI, Inc.'
+  thumbnailUrl: MichaelTorres.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MichaelTorresCodeChameleon"}
+    - {name: "github", link: "https://github.com/torresmi"}
+- 
+  id: 14
   name: "David"
-  surname: "McKinnon"
-  company: "Independent Android Developer"
-  bio: "David McKinnon is an independent software developer who has worked in Metro-Detroit since 1990. He has worked on a variety of Android projects since 2011 including a large pizza ordering app, a signing agents app for a title insurance provider and various poc and research projects. He is an organizer of the Detroit Java User Group and the founder of the DevDay conferences organized for software developers in the Detroit area."
-  thumbnailUrl: DavidMcKinnon.jpg
+  surname: "Wang"
+  bio: ""
+  thumbnailUrl: JingranWang.JPG
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/detroitjava"}
-    - {name: "github", link: "https://github.com/davidmckinnon"}
-- 
-  id: 12
-  name: "Joe"
-  surname: "Glandorf"
-  bio: "Joe Glandorf, a contract software engineer in Ann Arbor, has worked in the infotainment, CNC, and resistance welding industries, and has developed software for QNX, Windows/RTX, and Android. He holds amateur radio license AC8ES."
-  thumbnailUrl: JoeGlandorf.jpg
-  rockstar: true
-  social: 
-    - {name: "github", link: "https://github.com/jglandorf"}
+    - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
 - 
   id: 13
   name: "Ni"
@@ -122,34 +152,3 @@
   social: 
     - {name: "linkedin", link: "http://www.linkedin.com/pub/ni-yan/39/ab2/843/en"}
     - {name: "site", link: "http://anniedream.com/"}
-- 
-  id: 14
-  name: "David"
-  surname: "Wang"
-  bio: ""
-  thumbnailUrl: JingranWang.JPG
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JingranWang87"}
--
-  id: 15
-  name: "Dan"
-  surname: "Baran"
-  bio: "Dan Baran is a web developer by day and a data nerd by night. He also runs the GDG in Chicago. He spends his time coding in HTML, JavaScript, PHP."
-  thumbnailUrl: DanBaran.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Chicago", url: "https://developers.google.com/groups/chapter/116342852249328662050/" }
--
-  id: 16
-  name: "Dan"
-  surname: "Lew"
-  bio: "Dan Lew has been working on the railroad, all the live-long day. He is also an Android Google Developer Expert who has worked on Android versions of apps such as FlightTrack, Expedia, and Trello."
-  company: "Trello"
-  thumbnailUrl: DanLew.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/danlew42"}
-    - {name: "site", link: "http://danlew.net/"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
