@@ -28,6 +28,11 @@
   company: "Wayne State University"
   bio: "Nariman Ammar is a PhD candidate in Computer science at Wayne State University conducting research in Service computing, with focus on privacy management in Web services-based interactions. Nariman obtained her MSc. degree in Software engineering form Wayne State University. Nariman has several publications on using static analysis to extract runtime object interactions from object oriented code. Her recent publications include a privacy management framework that incorporates dynamic context handling in policy evaluation and decision making."
   thumbnailUrl: NarimanAmmar.jpg
+  social:
+    - {name: "github", link: "https://github.com/nammar"}
+    - {name: "twitter", link: "https://twitter.com/nammar"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nammar"}
+    - {name: "google-plus", link: "https://plus.google.com/117421082682879103283/posts"}
   rockstar: true
 - 
   id: 3
@@ -81,9 +86,9 @@
   thumbnailUrl: MichaelPardo.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "http://plus.google.com/+MichaelPardo"}
-    - {name: "twitter", link: "http://twitter.com/pardom"}
-    - {name: "github", link: "http://github.com/pardom"}
+    - {name: "google-plus", link: "https://plus.google.com/+MichaelPardo"}
+    - {name: "twitter", link: "https://twitter.com/pardom"}
+    - {name: "github", link: "https://github.com/pardom"}
     - {name: "site", link: "http://michaelpardo.com/"}
 - 
   id: 9
@@ -107,7 +112,7 @@
   thumbnailUrl: JayashreeRavi.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "http://www.linkedin.com/in/jayashreeravi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jayashreeravi"}
 - 
   id: 4
   name: "Peter"
@@ -118,7 +123,7 @@
   thumbnailUrl: 
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101192111&trk=eml_inv_status_profile_non_email"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101192111"}
 - 
   id: 5
   name: "Michael"
@@ -150,5 +155,5 @@
   thumbnailUrl: NiYan.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "http://www.linkedin.com/pub/ni-yan/39/ab2/843/en"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/ni-yan/39/ab2/843/en"}
     - {name: "site", link: "http://anniedream.com/"}
