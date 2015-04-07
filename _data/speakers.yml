@@ -148,5 +148,8 @@
   company: "Trello"
   thumbnailUrl: DanLew.jpg
   rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/danlew42"}
+    - {name: "site", link: "http://danlew.net/"}
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
