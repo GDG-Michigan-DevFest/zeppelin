@@ -19,12 +19,12 @@
     - {
         startTime: "10:30",
         endTime: "11:20",
-        sessionIds: [006, 002, 007]
+        sessionIds: [006, 404, 007]
     }
     - {
       startTime: "11:30",
       endTime: "12:20",
-      sessionIds: [600, 002, 600]
+      sessionIds: [600, 404, 600]
     }
     - {
       startTime: "12:20",
