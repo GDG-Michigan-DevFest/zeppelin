@@ -65,9 +65,9 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Michigan GDG DevFest"
+aboutTitle: "About"
 aboutBlock:
- - {title: "", image: "devfest.jpg", text: "Join us for a full day of excellent presentations on Android and Google Web/Cloud technologies in the heart of downtown Detroit!" }
+ - {title: "", image: "mi_devfest_logo.svg", text: "Join us for a full day of excellent presentations on Android and Google Web/Cloud technologies in the heart of downtown Detroit!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
