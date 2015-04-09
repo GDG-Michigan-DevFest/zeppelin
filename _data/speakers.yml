@@ -140,7 +140,8 @@
   id: 14
   name: "David"
   surname: "Wang"
-  bio: ""
+  company: "Android Developer"
+  bio: "David gave up PHP and started developing Android apps in 2010, and hasn't looked back. He's worked on many apps from small to large, with a passion for Android-based design, convincing clients to give up their iOS designs in favor of Holo, and more recently, Material."
   thumbnailUrl: JingranWang.JPG
   rockstar: true
   social: 
