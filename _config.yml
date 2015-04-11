@@ -129,7 +129,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all presentations, coffee breaks, and lunch."
+ticketsInfo: "Tickets grant access to all of the day's events."
 ticketsOffers:
  -
   name: "Professional"
