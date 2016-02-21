@@ -36,15 +36,15 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+DaveKoziol"}
     - {name: "twitter", link: "https://twitter.com/davekoziol"}
-- 
-  id: 3
-  name: "Nathan"
-  surname: "Hughes"
-  title: "Organizer"
-  thumbnailUrl: NateHughes.png
-  team: true
-  social: 
-    - {name: "google-plus", link: "google.com/+NathanHughesCthulhu"}
+#- 
+#  id: 3
+#  name: "Nathan"
+#  surname: "Hughes"
+#  title: "Organizer"
+#  thumbnailUrl: NateHughes.png
+#  team: true
+#  social: 
+#    - {name: "google-plus", link: "google.com/+NathanHughesCthulhu"}
 - 
   id: 4
   name: "David"
