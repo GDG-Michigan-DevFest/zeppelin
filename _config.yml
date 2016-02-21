@@ -36,7 +36,7 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://goo.gl/forms/cFQ5uvCf6Z"
+c4pUrl: "http://goo.gl/forms/ADtpu9jI6e"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/forms/j6ya2a5oe1", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://goo.gl/forms/j6ya2a5oe1", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "April 30, 2016"
 #typeoutTextValues: '"Quicken", "Loans", "Qube", "Building", "Detroit"'
 #typeoutFallback: "Season"
 heroButtons:
- - {link: "http://goo.gl/forms/j6ya2a5oe1", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -87,9 +87,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Quicken Loans Qube"
-#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "635 Woodward Avenue"
+eventLocationName: "Grand Circus Detroit"
+eventLocationLink: "http://www.grandcircus.co/"
+eventStreetAddress: "1570 Woodward Avenue"
 eventAddressLocality: "Detroit"
 eventAddressLocalityRegion: "Michigan"
 eventPostalCode: "48226"
@@ -97,9 +97,9 @@ eventAddressCountry: "USA"
 eventStartTime: "2016-04-30T08:30"
 eventDoorTime: "08:30"
 eventEndTime: "2016-04-30T17:00"
-eventPlaceCoordinates: "42.330402, -83.046620"
-mapCenterCoordinates: "42.330402, -83.046620"
-mapMobileCenterCoordinates: "42.330402, -83.046620"
+eventPlaceCoordinates: "42.335867, -83.049754"
+mapCenterCoordinates: "42.335867, -83.049754"
+mapMobileCenterCoordinates: "42.335867, -83.049754"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -107,8 +107,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Quicken Loans Qube Building"
-venueFeatures: ["2 Presentations Rooms", "Dolby Digital Surround", "Located directly in the city center"]
+venueTitle: "Grand Circus Detroit"
+venueFeatures: ["Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -141,7 +141,7 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "2016-04-01T10:00"
   validThrough: "2016-04-30T23:59"
-  disabled: false
+  disabled: true
  -
   name: "Student"
   price: "$25"
@@ -152,7 +152,7 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "2016-04-01T10:00"
   validThrough: "2016-04-30T23:59"
-  disabled: false
+  disabled: true
 
 # Footer
 socialLinks:
@@ -196,8 +196,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "42.330402, -83.046620"
-logisticsMapMobileCenterCoordinates: "42.330402, -83.046620"
+logisticsMapCenterCoordinates: "42.335867, -83.049754"
+logisticsMapMobileCenterCoordinates: "42.335867, -83.049754"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
