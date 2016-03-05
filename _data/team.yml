@@ -76,4 +76,17 @@
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
+-
+  id: 7
+  name: "Ollie"
+  surname: "Townsend III"
+  title: "Organizer"
+  thumbnailUrl: OllieTownsend.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+netapexorg"}
+    - {name: "twitter", link: "https://twitter.com/netapex"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/netapex"}
 
