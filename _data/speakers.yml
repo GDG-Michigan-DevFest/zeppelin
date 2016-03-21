@@ -164,7 +164,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+MichaelPardo"}
     - {name: "twitter", link: "https://twitter.com/pardom"}
     - {name: "github", link: "https://github.com/pardom"}
-    - {name: "speakerdeck", link: "https://speakerdeck.com/pardom"}
+    - {name: "site", link: "https://speakerdeck.com/pardom"}
 -
   id: 13
   name: "Dan"
