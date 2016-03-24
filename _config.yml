@@ -61,7 +61,7 @@ eventDate: "April 30, 2016"
 #typeoutTextValues: '"Quicken", "Loans", "Qube", "Building", "Detroit"'
 #typeoutFallback: "Season"
 heroButtons:
- - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
+# - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -132,27 +132,27 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all of the day's events."
 ticketsOffers:
  -
-  name: "Professional"
+  name: "Professional Early Bird"
   price: "$50"
   priceCurrency: ""
   buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
   featured: true
   ticketContentList: []
-  validFrom: "2016-04-01T10:00"
+  validFrom: "2016-03-21T10:00"
   validThrough: "2016-04-30T23:59"
-  disabled: true
+  disabled: false
  -
-  name: "Student"
+  name: "Student Early Bird"
   price: "$25"
   priceCurrency: ""
   buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
   ticketContentList: []
-  validFrom: "2016-04-01T10:00"
+  validFrom: "2016-03-21T10:00"
   validThrough: "2016-04-30T23:59"
-  disabled: true
+  disabled: false
 
 # Footer
 socialLinks:
