@@ -148,10 +148,19 @@ ticketsOffers:
   priceCurrency: ""
   buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
-  featured: false
   ticketContentList: []
   validFrom: "2016-04-03T23:30"
   validThrough: "2016-04-26T23:30"
+  disabled: true
+ -
+  name: "Professional Late Bird"
+  price: "$80"
+  priceCurrency: ""
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
+  buyButtonText: "Buy Now"
+  ticketContentList: []
+  validFrom: "2016-04-26T23:30"
+  validThrough: "2016-04-30T09:00"
   disabled: true
  -
   name: "Student Early Bird"
@@ -165,6 +174,28 @@ ticketsOffers:
   validFrom: "2016-03-21T10:00"
   validThrough: "2016-04-30T23:30"
   disabled: false
+ -
+  name: "Student"
+  price: "$30"
+  priceCurrency: ""
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in."
+  ticketContentList: []
+  validFrom: "2016-04-03T23:30"
+  validThrough: "2016-04-26T23:30"
+  disabled: true
+ -
+  name: "Student Late Bird"
+  price: "$40"
+  priceCurrency: ""
+  buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in."
+  ticketContentList: []
+  validFrom: "2016-04-03T23:30"
+  validThrough: "2016-04-30T09:00"
+  disabled: true
 
 # Footer
 socialLinks:
