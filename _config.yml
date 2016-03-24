@@ -155,7 +155,7 @@ ticketsOffers:
   disabled: true
  -
   name: "Professional Late Bird"
-  price: "$80"
+  price: "$75"
   priceCurrency: ""
   buyButtonLink: "http://michigandevfest.eventbrite.com/?aff=website"
   buyButtonText: "Buy Now"
