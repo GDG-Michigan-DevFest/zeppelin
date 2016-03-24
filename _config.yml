@@ -49,10 +49,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
+#bottomNavigationLinks:
+# - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "http://goo.gl/forms/ADtpu9jI6e", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
