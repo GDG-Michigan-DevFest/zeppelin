@@ -142,15 +142,6 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/godfreynolan"}
--
-  id: 11
-  name: "Macy"
-  surname: "Kuang"
-  company: "TBD"
-  title: "TBD"
-  bio: "TBD"
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
 - 
   id: 7
   name: "Michael"
