@@ -29,7 +29,7 @@
 -
   id: 002
   title: "Android TDD"
-  description: "There’s no reason why Agile practices and Android can’t go hand in hand. In this session, learn how to add TDD (test-driven development) to your next Android project. Thankfully, you no longer have to rely on Google’s jUnit3 testing framework now that Google have rolled out jUnit4 testing in Android Studio. The class begins with how to set up Android Studio to do unit tests and mocking. We then move on to use unit testing to create a sample app to show best practices for creating a test-driven environment."
+  description: "There's no reason why Agile practices and Android can't go hand in hand. In this session, learn how to add TDD (test-driven development) to your next Android project. Thankfully, you no longer have to rely on Google's jUnit3 testing framework now that Google have rolled out jUnit4 testing in Android Studio. The class begins with how to set up Android Studio to do unit tests and mocking. We then move on to use unit testing to create a sample app to show best practices for creating a test-driven environment."
   subtype: presentation
   speakers: [6]
   language: en
