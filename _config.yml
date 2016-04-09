@@ -142,7 +142,7 @@ ticketsOffers:
   ticketsNumber: 150
   validFrom: "2016-03-21T10:00"
   validThrough: "2016-04-03T23:30"
-  disabled: false
+  disabled: true
  -
   name: "Professional"
   price: "$60"
@@ -152,7 +152,7 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "2016-04-03T23:30"
   validThrough: "2016-04-26T23:30"
-  disabled: true
+  disabled: false
  -
   name: "Professional Late Bird"
   price: "$75"
@@ -175,7 +175,7 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "2016-03-21T10:00"
   validThrough: "2016-04-03T23:30"
-  disabled: false
+  disabled: true
  -
   name: "Student"
   price: "$30"
@@ -186,7 +186,7 @@ ticketsOffers:
   ticketContentList: []
   validFrom: "2016-04-03T23:30"
   validThrough: "2016-04-26T23:30"
-  disabled: true
+  disabled: false
  -
   name: "Student Late Bird"
   price: "$40"
