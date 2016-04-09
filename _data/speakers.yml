@@ -92,8 +92,8 @@
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
-    - {name: "twitter", "https://twitter.com/mikewolfson"}
-    - {name: "google-plus", "https://plus.google.com/+MichaelWolfson"}
+    - {name: "twitter", link: "https://twitter.com/mikewolfson"}
+    - {name: "google-plus", link: "https://plus.google.com/+MichaelWolfson"}
 - 
   id: 8
   name: "Kevin"
