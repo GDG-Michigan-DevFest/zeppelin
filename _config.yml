@@ -173,7 +173,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   featured: true
   soldOut: true
-  soldOutText: "Not Available"
+  soldOutText: "No Longer Available"
   ticketsNumber: 50
   additionalInfo: "Requires a valid student ID at the conference check in."
   ticketContentList: []
